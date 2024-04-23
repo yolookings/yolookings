@@ -7,9 +7,10 @@ Hello! I'm Maulana Ahmad Zahiri, or (Lana), a college student who is exploring t
 ### 🤝🏻 &nbsp; 
 
 <p align="left">
-      <a href="https://www.instagram.com/maulanazahiri/?next=%2F&hl=id">
-         <img alt="instagram profile" title="Follow my instagram" src="https://img.shields.io/badge/-@maulanazahiri-E4405F?style=flat&logo=Instagram&logocolor=%23E05D44&label=Follow!&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-   </p>
+   <a href="https://www.instagram.com/maulanazahiri/?next=%2F&hl=id">
+      <img alt="instagram profile" title="Follow my instagram" src="https://img.shields.io/badge/-@maulanazahiri-E4405F?style=flat&logo=Instagram&logocolor=%23E05D44&label=Follow!&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630" style="color: yellow;"/>
+   </a> 
+</p>
 
 ---
 
