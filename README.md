@@ -4,18 +4,12 @@
 
 Hello! I'm Maulana Ahmad Zahiri, or (Lana), a college student who is exploring the world of programming with passion. Currently, I'm studying in the IT field and aspire to establish an inclusive programming community in Indonesia, a place where everyone can learn and grow together without limitations. If you are interested in collaborating or exchanging ideas about programming, you can contact me via the email page ``maulanazahiri31@gmail.com.`` Then to conclude, let us together create a supportive environment for growth and innovation in the world of programming!
 
-Translated with DeepL.com (free version)
+### 🤝🏻 &nbsp;Connect with Me
 
-   <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/fknight">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+<p align="center">
+<a href="mailto:maulanazahiri31@gmail.com"><img src="https://img.shields.io/badge/-maulanazahiri31@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/maulanazahiri"><img src="https://img.shields.io/badge/-@maulanazahiri-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+</p>
 
 ---
 
