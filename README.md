@@ -4,17 +4,12 @@
 
 Hello! I'm Maulana Ahmad Zahiri, or (Lana), a college student who is exploring the world of programming with passion. Currently, I'm studying in the IT field and aspire to establish an inclusive programming community in Indonesia, a place where everyone can learn and grow together without limitations. If you are interested in collaborating or exchanging ideas about programming, you can contact me via the email page ``maulanazahiri31@gmail.com.`` Then to conclude, let us together create a supportive environment for growth and innovation in the world of programming!
 
-<p align="left">
-      <a href="https://www.instagram.com/maulanazahiri/?next=%2F&hl=id">
-         <img alt="instagram profile" title="Follow my instagram" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-   </p>
-
 ### 🤝🏻 &nbsp; 
 
-<p align="center">
-<a href="mailto:maulanazahiri31@gmail.com"><img src="https://img.shields.io/badge/-maulanazahiri31@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/maulanazahiri"><img src="https://img.shields.io/badge/-@maulanazahiri-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-</p>
+<p align="left">
+      <a href="https://www.instagram.com/maulanazahiri/?next=%2F&hl=id">
+         <img alt="instagram profile" title="Follow my instagram" src="https://img.shields.io/badge/-@maulanazahiri-E4405F?style=flat&logo=Instagram&logocolor=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+   </p>
 
 ---
 
