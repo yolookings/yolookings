@@ -1,8 +1,10 @@
-# 🏄‍♂️ Forrest Knight
+# 👑 YolooKings 👑
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Student Developer Programmer`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 500k subscribers.
+Hello! I'm Maulana Ahmad Zahiri, or (Lana), a college student who is exploring the world of programming with passion. Currently, I'm studying in the IT field and aspire to establish an inclusive programming community in Indonesia, a place where everyone can learn and grow together without limitations. If you are interested in collaborating or exchanging ideas about programming, you can contact me via the email page ``maulanazahiri31@gmail.com.`` Then to conclude, let us together create a supportive environment for growth and innovation in the world of programming!
+
+Translated with DeepL.com (free version)
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
