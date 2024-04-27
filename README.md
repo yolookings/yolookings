@@ -1,4 +1,4 @@
-# 👑 YolooKings 👑
+# 👑 Yolookings 👑
 
 **`Student Developer Programmer`**
 
