@@ -32,5 +32,6 @@ Hello! I'm Maulana Ahmad Zahiri, or (Lana), a college student who is exploring t
 
 ### 📊 Stats
 
-![Yoloo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yolookings&show_icons=true&theme=gruvbox)
+![Yoloo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yolookings&show_icons=true&theme=tokyonight)
+
 
