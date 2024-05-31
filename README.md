@@ -32,8 +32,13 @@ Hello! I'm Maulana Ahmad Zahiri, or (Lana), a college student who is exploring t
 
 ### 📊 Stats
 
-![Yoloo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yolookings&show_icons=true&theme=tokyonight)
-<img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=yolookings&theme=github">
+<div>
+  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=yolookings&show_icons=true&theme=tokyonight">
+  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=yolookings&layout=compact&theme=tokyonight" />
+  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=yolookings&theme=github">
+  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=yolookings&theme=tokyonight" />
+</div>
+
 
 ![GitHub Snake Animation](https://github.com/yolookings/yolookings/blob/output/github-snake.svg)
 
