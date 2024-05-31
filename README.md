@@ -40,7 +40,9 @@ Hello! I'm Maulana Ahmad Zahiri, or (Lana), a college student who is exploring t
 </div>
 
 
-![GitHub Snake Animation](https://github.com/yolookings/yolookings/blob/output/github-snake.svg)
-
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yolookings/yolookings/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yolookings/yolookings/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yolookings/yolookings/output/github-contribution-grid-snake.svg">
+</picture>
 
