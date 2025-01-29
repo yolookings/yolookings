@@ -2,11 +2,10 @@
 
 **`Student Developer Programmer`**
 
-<img align="right" width="400" height="250" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHJjc2czaWRyMTFuY3NiZDN0emRxbjU4OXh1Njd2cWNneng5NGo3bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B1CrvUCoMxhy8/giphy.gif"><br>
 <p style="text-align: justify;">
   Hello! I'm Maulana Ahmad Zahiri, or (Lana), an IT student passionate about programming. Aspiring to build an inclusive programming community in Indonesia where everyone can learn and grow together. Open to collaboration and idea exchange — let’s innovate and support each other!
 </p>
-
+<img align="right" width="200" height="150" alt="GIF" src="https://media.giphy.com/media/3o7TKILKwQCtphbl7y/giphy.gif?cid=790b76119o0yaodi5pdtlrr6dy067iuresv8biudbfrseyp2&ep=v1_gifs_search&rid=giphy.gif&ct=g"><br>
 📩 Contact: maulanazahiri31@gmail.com
 
 
