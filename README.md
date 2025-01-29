@@ -35,10 +35,10 @@ Hello! I'm Maulana Ahmad Zahiri, or (Lana) , an IT student passionate about prog
 ### 📊 Stats
 
 <div>
-  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=yolookings&show_icons=true&theme=tokyonight">
-  <img width="525px" src="https://github-readme-activity-graph.vercel.app/graph?username=yolookings&theme=github">
   <img width="385px" src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=yolookings&layout=compact&count_private=true&theme=tokyonight&title_color=00b3ff" />
-  <img width="540px" src="https://nirzak-streak-stats.vercel.app/?user=yolookings&theme=tokyonight"/>
+  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=yolookings&show_icons=true&theme=tokyonight">
+  <img width="385px" src="https://github-readme-activity-graph.vercel.app/graph?username=yolookings&theme=github">
+   <img width="440px" src="https://nirzak-streak-stats.vercel.app/?user=yolookings&theme=tokyonight"/>
 </div>
 
 <picture>
