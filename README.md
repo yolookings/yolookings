@@ -2,7 +2,9 @@
 
 **`Student Developer Programmer`**
 
-Hello! I'm Maulana Ahmad Zahiri, or (Lana), a college student who is exploring the world of programming with passion. Currently, I'm studying in the IT field and aspire to establish an inclusive programming community in Indonesia, a place where everyone can learn and grow together without limitations. If you are interested in collaborating or exchanging ideas about programming, you can contact me via the email page ``maulanazahiri31@gmail.com.`` Then to conclude, let us together create a supportive environment for growth and innovation in the world of programming!
+Hello! I'm Maulana Ahmad Zahiri, or (Lana) , an IT student passionate about programming. Aspiring to build an inclusive programming community in Indonesia where everyone can learn and grow together. Open to collaboration and idea exchange—let’s innovate and support each other!
+
+📩 Contact: maulanazahiri31@gmail.com
 
 
 ### 🤝🏻 Connect With Me
@@ -34,11 +36,10 @@ Hello! I'm Maulana Ahmad Zahiri, or (Lana), a college student who is exploring t
 
 <div>
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=yolookings&show_icons=true&theme=tokyonight">
-  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=yolookings&layout=compact&theme=tokyonight" />
-  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=yolookings&theme=github">
-  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=yolookings&theme=tokyonight" />
+  <img width="525px" src="https://github-readme-activity-graph.vercel.app/graph?username=yolookings&theme=github">
+  <img width="385px" src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=yolookings&layout=compact&count_private=true&theme=tokyonight&title_color=00b3ff" />
+  <img width="540px" src="https://nirzak-streak-stats.vercel.app/?user=yolookings&theme=tokyonight"/>
 </div>
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yolookings/yolookings/output/github-contribution-grid-snake-dark.svg">
