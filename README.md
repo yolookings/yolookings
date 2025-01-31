@@ -44,7 +44,7 @@
 
 <div>
   <img width="410px" src="https://github-readme-stats.vercel.app/api?username=yolookings&show_icons=true&theme=tokyonight">
-  <img width="435px" src="https://nirzak-streak-stats.vercel.app/?user=yolookings&theme=tokyonight"/>
+  <img width="430px" src="https://nirzak-streak-stats.vercel.app/?user=yolookings&theme=tokyonight"/>
   <img width="510px" src="https://github-readme-activity-graph.vercel.app/graph?username=yolookings&theme=github">
   <img width="330px" src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=yolookings&layout=compact&count_private=true&theme=tokyonight&title_color=00b3ff" />
 </div>
