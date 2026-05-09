@@ -1,42 +1,66 @@
-# 👑 Yolookings 👑
+![banner](/assets/profile-banner.png)
 
-**`Student Developer Programmer`**
+## Hi There! 👨‍💻
 
-<p style="text-align: justify;">
-  Hello! I'm Maulana Ahmad Zahiri, or (Lana), an IT student passionate about programming. Aspiring to build an inclusive programming community in Indonesia where everyone can learn and grow together. Open to collaboration and idea exchange — let’s innovate and support each other!
-</p>
-<img align="right" width="200" height="150" alt="GIF" src="https://media.giphy.com/media/3o7TKILKwQCtphbl7y/giphy.gif?cid=790b76119o0yaodi5pdtlrr6dy067iuresv8biudbfrseyp2&ep=v1_gifs_search&rid=giphy.gif&ct=g"><br>
-📩 Contact: maulanazahiri31@gmail.com
+I'm Maulana Ahmad Zahiri, a third-year Information Technology student at Institut Teknologi Sepuluh Nopember (ITS)
 
+- Currently, I am highly interested in Artificial Intelligence, Data-Driven System Development, and UI/UX Design
+- Profound interest in building user-centered digital products and AI-powered workflow automation systems
 
-### 🤝🏻 Connect With Me
+## 📚 Projects & Repositories
 
-<p align="left">
-   <a href="https://www.instagram.com/maulanazahiri/?next=%2F&hl=id"><img alt="instagram profile" title="Follow my instagram" src="https://img.shields.io/badge/-@maulanazahiri-E4405F?style=flat&logo=Instagram&logocolor=%23E05D44&label=Follow!&logo=video&logoColor=white&style=for-the-badge&labelColor=DAA520" style="color: yellow;"/> </a> 
-   <a href="https://gmail.com/maulanazahiri31@gmail.com/?next=%2F&hl=id"><img alt="mail profile" title="send your text" src="https://img.shields.io/badge/-maulanazahiri31@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" style="color: yellow;"/> </a> 
-   
-</p>
+| Repository / Project                                                        | Link                                                             | Description                                                                | Awards / Highlights                 |
+| --------------------------------------------------------------------------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------- | ----------------------------------- |
+| [ICP Reminder Agent](https://github.com/yolookings/icp-reminder-agent-chat) | [GitHub](https://github.com/yolookings/icp-reminder-agent-chat)  | Secure reminder system using ICP Canister (TypeScript) & uAgent (Fetch.ai) | [DoraHacks BUIDL]                   |
+| [FlappySwift](https://github.com/yolookings/swiftproject-FlappySwift)       | [GitHub](https://github.com/yolookings/swiftproject-FlappySwift) | Classic Flappy Bird game for iOS 18 using Swift and SpriteKit              | iOS Game Dev                        |
+| [Personal Portfolio](https://maulanazahiri.framer.website/)                 | [Website](https://maulanazahiri.framer.website/)                 | Personal portfolio and web projects showcase                               | /                                   |
+| [Banyubramanta Official Website](#)                                         | [Website](#)                                                     | Official team website; managed UI/UX and Front-end                         | 150% engagement ↑                   |
+| [AI Workflow Automation Systems](#)                                         | [Private / Internal](#)                                          | Automated workflows using n8n and Loveable AI                              | [Finalist AICO x Microsoft 2025](#) |
+| [Futurest ITS Website](#)                                                   | [Website](#)                                                     | Intuitive UI layouts ensuring seamless navigation                          | /                                   |
+| [ARA ITS Website](#)                                                        | [Website](#)                                                     | Futuristic website resulting in 15% user increase                          | 50k+ content views                  |
 
+## 👔 Experience
+
+| Position                       | Organization / Company     | Field                       | Work Period       |
+| ------------------------------ | -------------------------- | --------------------------- | ----------------- |
+| Technical Lead - Web Dev       | Banyubramanta ITS          | Web Development & UI/UX     | 2024-09 — now     |
+| Head of Creative & Branding    | Banyubramanta ITS          | Branding & Digital Content  | 2024-09 — now     |
+| Secretary of Media Info        | Himpunan Mahasiswa TI ITS  | Media & Correspondence      | 2025-03 — 2026-02 |
+| Artificial Intelligence Intern | Mirai School of Technology | AI Workflow Automation      | 2026-01 — 2026-02 |
+| Expert Staff UI/UX Designer    | Futurest by SRE ITS        | Web Design & UI/UX          | 2024-11 — 2025-03 |
+| Marketing & UI/UX Staff        | ARA ITS                    | Web Dev & Digital Marketing | 2023-08 — 2025-03 |
+
+## 🎓 Education
+
+- Bachelor of Computer Science, Information Technology @ Institut Teknologi Sepuluh Nopember (ITS) (2023 - 2027)
 
 ---
 
+## 🛠 Technologies I Use
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,html,css,js,ts" />
-    <img src="https://skillicons.dev/icons?i=arduino,react,vue,nuxt,next,docker,linux"/>
-    <img src="https://skillicons.dev/icons?i=postman,nodejs,tailwind,notion,figma,pr"/>
-  </a>
-</p>
-
+![](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![](https://img.shields.io/badge/Node.js-86BE00?style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
 
 ### 📊 Stats
 
 <div>
-  <img width="410px" src="https://github-readme-stats.vercel.app/api?username=yolookings&show_icons=true&theme=tokyonight">
-  <img width="430px" src="https://nirzak-streak-stats.vercel.app/?user=yolookings&theme=tokyonight"/>
   <img width="510px" src="https://github-readme-activity-graph.vercel.app/graph?username=yolookings&theme=github">
-  <img width="330px" src="https://github-readme-mwendwa.vercel.app/api/top-langs/?username=yolookings&layout=compact&count_private=true&theme=tokyonight&title_color=00b3ff" />
 </div>
 
 <picture>
@@ -45,3 +69,9 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yolookings/yolookings/output/github-contribution-grid-snake.svg">
 </picture>
 
+## Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maulanazahiri) &nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yolookings) &nbsp;
+[![Portfolio Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://maulanazahiri.framer.website/) &nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maulanazahiri31@gmail.com) &nbsp;
