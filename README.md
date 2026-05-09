@@ -59,8 +59,8 @@ I'm Maulana Ahmad Zahiri, a third-year Information Technology student at Institu
 
 ### 📊 Stats
 
-<div>
-  <img width="510px" src="https://github-readme-activity-graph.vercel.app/graph?username=yolookings&theme=github">
+<div align="center">
+  <img width="640px" src="https://github-readme-activity-graph.vercel.app/graph?username=yolookings&theme=tokyo-night">
 </div>
 
 <picture>
