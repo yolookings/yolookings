@@ -1,4 +1,4 @@
-![banner](/assets/profile-banner.png)
+![banner](/assets/readme-profile-banner.png)
 
 ## Hi There! 👨‍💻
 
@@ -9,26 +9,26 @@ I'm Maulana Ahmad Zahiri, a third-year Information Technology student at Institu
 
 ## 📚 Projects & Repositories
 
-| Repository / Project                                                        | Link                                                             | Description                                                                | Awards / Highlights                 |
-| --------------------------------------------------------------------------- | ---------------------------------------------------------------- | -------------------------------------------------------------------------- | ----------------------------------- |
-| [ICP Reminder Agent](https://github.com/yolookings/icp-reminder-agent-chat) | [GitHub](https://github.com/yolookings/icp-reminder-agent-chat)  | Secure reminder system using ICP Canister (TypeScript) & uAgent (Fetch.ai) | [DoraHacks BUIDL]                   |
-| [FlappySwift](https://github.com/yolookings/swiftproject-FlappySwift)       | [GitHub](https://github.com/yolookings/swiftproject-FlappySwift) | Classic Flappy Bird game for iOS 18 using Swift and SpriteKit              | iOS Game Dev                        |
-| [Personal Portfolio](https://maulanazahiri.framer.website/)                 | [Website](https://maulanazahiri.framer.website/)                 | Personal portfolio and web projects showcase                               | /                                   |
-| [Banyubramanta Official Website](#)                                         | [Website](#)                                                     | Official team website; managed UI/UX and Front-end                         | 150% engagement ↑                   |
-| [AI Workflow Automation Systems](#)                                         | [Private / Internal](#)                                          | Automated workflows using n8n and Loveable AI                              | [Finalist AICO x Microsoft 2025](#) |
-| [Futurest ITS Website](#)                                                   | [Website](#)                                                     | Intuitive UI layouts ensuring seamless navigation                          | /                                   |
-| [ARA ITS Website](#)                                                        | [Website](#)                                                     | Futuristic website resulting in 15% user increase                          | 50k+ content views                  |
+| Repository / Project                                                        | Link                                                             | Description                                                                             | Awards / Highlights |
+| --------------------------------------------------------------------------- | ---------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ------------------- |
+| [Personal Website](https://maulanazahiri.framer.website/)                   | [Website](https://maulanazahiri.framer.website/)                 | Personal portfolio and web projects showcase                                            | UI/UX using Framer  |
+| [SmartCemetary]()                                                           | [Website](https://smartcemetary.web.id/)                         | Grave Management System collaborative project with Dinas Lingkungan Hidup Kota Surabaya | UI/UX using Framer  |
+| [ICP Reminder Agent](https://github.com/yolookings/icp-reminder-agent-chat) | [GitHub](https://github.com/yolookings/icp-reminder-agent-chat)  | Secure reminder system using ICP Canister (TypeScript) & uAgent (Fetch.ai)              | DoraHacks Hackaton  |
+| [FlappySwift](https://github.com/yolookings/swiftproject-FlappySwift)       | [GitHub](https://github.com/yolookings/swiftproject-FlappySwift) | Classic Flappy Bird game for iOS 18 using Swift and SpriteKit                           | iOS Game Dev        |
+| [Banyubramanta Official Website](https://github.com/banyubramantaITS/)      | [Website](https://moving-visions.lovable.app/)                   | Official team website; managed UI/UX and Front-end                                      | 150% engagement ↑   |
+| [Futurest ITS Website](#)                                                   | [Website](https://frontend-futurest2024.vercel.app/)             | Intuitive UI layouts ensuring seamless navigation                                       | /                   |
+| [ARA ITS Website](https://github.com/ARenewalAgent-ITS)                     | [Website](https://ara-its.id/)                                   | Futuristic website resulting in 15% user increase                                       | 50k+ content views  |
 
 ## 👔 Experience
 
-| Position                       | Organization / Company     | Field                       | Work Period       |
-| ------------------------------ | -------------------------- | --------------------------- | ----------------- |
-| Technical Lead - Web Dev       | Banyubramanta ITS          | Web Development & UI/UX     | 2024-09 — now     |
-| Head of Creative & Branding    | Banyubramanta ITS          | Branding & Digital Content  | 2024-09 — now     |
-| Secretary of Media Info        | Himpunan Mahasiswa TI ITS  | Media & Correspondence      | 2025-03 — 2026-02 |
-| Artificial Intelligence Intern | Mirai School of Technology | AI Workflow Automation      | 2026-01 — 2026-02 |
-| Expert Staff UI/UX Designer    | Futurest by SRE ITS        | Web Design & UI/UX          | 2024-11 — 2025-03 |
-| Marketing & UI/UX Staff        | ARA ITS                    | Web Dev & Digital Marketing | 2023-08 — 2025-03 |
+| Position                              | Organization / Company     | Field                       | Work Period       |
+| ------------------------------------- | -------------------------- | --------------------------- | ----------------- |
+| Technical Lead - Web Dev              | Banyubramanta ITS          | Web Development & UI/UX     | 2024-09 — now     |
+| Head of Creative & Branding           | Banyubramanta ITS          | Branding & Digital Content  | 2024-09 — now     |
+| Secretary of Media Information Bureau | Himpunan Mahasiswa TI ITS  | Media & Correspondence      | 2025-03 — 2026-02 |
+| Artificial Intelligence Intern        | Mirai School of Technology | AI Workflow Automation      | 2026-01 — 2026-02 |
+| Expert Staff UI/UX Designer           | Futurest by SRE ITS        | Web Design & UI/UX          | 2024-11 — 2025-03 |
+| Marketing & UI/UX Staff               | ARA ITS                    | Web Dev & Digital Marketing | 2023-08 — 2025-03 |
 
 ## 🎓 Education
 
